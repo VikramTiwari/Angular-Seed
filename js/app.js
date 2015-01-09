@@ -1,9 +1,9 @@
 /**
- * angularSimpleWebApp Module
+ * AngularSeed Module
  *
  * Description
  */
-var app = angular.module('angularSimpleWebApp', ['ngRoute', 'ngAnimate']);
+var app = angular.module('AngularSeed', ['ngRoute', 'ngAnimate']);
 
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider
