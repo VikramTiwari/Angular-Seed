@@ -7,10 +7,9 @@ How to run
 
 I like to use Python for running a static file server. Use the following command to start off.
 
-'''
+```
 python -m SimpleHTTPServer 8000
-
-'''
+```
 
 This will start serving the app on http://localhost:8000
 
